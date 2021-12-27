@@ -1,10 +1,4 @@
 package IdentityChecker;
-// Name: Isaac Hu
-// Email: iyhu@wisc.edu
-// Team: HA
-// TA: Na Li
-// Lecturer: Gary Dahl
-// Notes to Grader: N/A
 
 public class Pair<KeyType, ValueType> {
   private KeyType key;
