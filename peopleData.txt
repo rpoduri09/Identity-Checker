@@ -1,0 +1,10 @@
+John Doe,18,123 Main st.,abc@gmail.com,414-321-3453,10-26-2001,Male,12312321
+Jim Lahey,70,Sunnyvale,laheyJ@outlook.com,123-123-1234,10-21-1678,Male,123213213
+Jordan Doe,42,New York City,JordanPDoe@gmail.com,233-231-1231,10-11-1776,Male,123213213
+Mark Shields,31,Wauwatosa,Shieldofarrav@hotmail.com,213-543-1235,10-25-1989,Male,21312315
+Thomas Jefferson,83,Virginia,Tjeff@outlook.com,877-241-4213,04-13-1743,Male,3453543
+Sam Jackson,21,420 W Gorham St.,fcg@gmail.com,248-615-3543,09–17-1999,Male,98764572
+Bob Builder,20,231 W Dayton St.,roshf@hotmail.com,123-345-5674,08-03-2020,Male,09876584
+Juice World,17,99 E Johnson St.,wroeij@yahoo.com,323-343-4665,09-03-2003,Male,23412142
+Lebron James,12,43 Main St.,ewxwz@gmail.com,423-322-0933,05-03-2008,Male,2314432
+Roger Federer,45,305 Arbor Ln,gjfnf@gmail.com,433-343-3432,03-04-1975,Male,123421
