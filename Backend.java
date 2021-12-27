@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Alex Sannikov
-// Email: sannikov@wisc.edu
-// Team: HA
-// TA: Na Li
-// Lecturer: Florian Heimerl
-// Notes to Grader:
-
 package IdentityChecker;
 
 import java.io.File;
