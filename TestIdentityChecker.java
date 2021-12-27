@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: Kelvin Zhang
-// Email: kzhang298@wisc.edu
-// Team: HA
-// TA: Na Li
-// Lecturer: Gary Dahl
-// Notes to Grader: None
-
 import java.io.File;
 import java.nio.file.Files;
 import java.nio.file.Paths;
