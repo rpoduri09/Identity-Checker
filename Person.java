@@ -1,11 +1,3 @@
-// --== CS400 File Header Information ==--
-// Name: <Adam Schmidt>
-// Email: <amschmidt9@wisc.edu>
-// Team: <HA>
-// TA: <Na Li>
-// Lecturer: <Gary Dahl>
-// Notes to Grader: <optional extra notes>
-
 package IdentityChecker;
 
 public class Person {
