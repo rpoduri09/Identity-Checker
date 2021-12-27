@@ -1,10 +1,3 @@
-// Name: Isaac Hu
-// Email: iyhu@wisc.edu
-// Team: HA
-// TA: Na Li
-// Lecturer: Gary Dahl
-// Notes to Grader: N/A
-
 package IdentityChecker;
 
 import java.util.LinkedList;
